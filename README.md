@@ -15,9 +15,9 @@ The recommendation system is visualized in a simple dashboard using Python Dash.
 Using the dashboard you can experience how the recommendation system work. 
 
 ## How to run the dashboard
-Run the *index.py* file. 
-The dashboard will visible in your localhost in port 8050. 
-Access here: http://127.0.0.1:8050/
+1. Download the pretrained model from the drive [here](https://drive.google.com/drive/folders/1BwTPhmoCZVbq5l3dLl4Ioq9qof6ewjRU?usp=sharing). Put the file inside folder *assets* > *models*
+2. Run the *index.py* file. 
+3. The dashboard will visible in your localhost in port 8050 or access in http://127.0.0.1:8050/
 
 ## Note
 The dashboard was build in Indonesian language.
